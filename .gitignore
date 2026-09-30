@@ -1,0 +1,19 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 系統檔案
+.DS_Store
+
+# 千萬不要把含有真實 token 的設定檔傳上 GitHub
+config/
+subkill-mod.json
+*.token.json
+token.json
+credentials.json
